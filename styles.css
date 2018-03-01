@@ -1,0 +1,41 @@
+h3{
+	border:dashed #fff;
+	margin-right: 80%;
+	text-decoration:bold;
+	font-size:30px;
+	margin-top: 0;
+}
+
+body{
+	padding: 5px 5px 5px;
+	font-family: Calibri,Arial;
+	margin-left:35%;
+	border:outset; #f0f0f0;
+	box-shadow: 3px 3px 3px 3px #f0f0f0  ;
+	box-sizing: content-box;
+	width: 308px;
+}
+
+img{
+	cursor:pointer;
+	height:200px;
+	width:300px;
+	border:ridge;
+}
+
+.ok{
+	font-weight: bold;
+}
+
+
+.jai{
+	text-align: justify;
+	font-style: italic;
+}
+
+.good{
+	text-align: justify;
+}
+.bor{
+	border:ridge #f0f0f0;
+}
